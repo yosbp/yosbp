@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [yosmarb.com](yosmarb.com)
 
-- 📝 I regularly write articles on [yosmarb.com/blog](yosmarb.com/blog)
-
 - 💬 Ask me about **Vanilla php, Laravel or Vue**
 
 - 📫 How to reach me **hola@yosmarb.com**
